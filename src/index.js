@@ -10,7 +10,7 @@ const App = () => {
             <CommentDetail />
             <CommentDetail />
             <CommentDetail />
-            <CommentDetail />
+            <CommentDetail />g
         </div>
     );
 };
